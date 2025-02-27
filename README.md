@@ -15,10 +15,9 @@
                               Launch IntelliJ Idea.
                               Navigate to File > Open and select the cloned repository folder.
         Build the Project:
-                          Once the project is loaded navigate to Build > Run 'Main'. The calculator should appear in consoule window, allowing you to perform basic arthmetic operations.
+                          Once the project is loaded navigate to Build > Run 'Calculator'. The calculator should appear in consoule window, allowing you to perform basic arthmetic operations.
 
 **Project Structure:**
                   src/ : Contains the source code.
-                  Main.java : The entry point of application.
                   Calculator.java: Contains the logic for arithmetic operations.
         
